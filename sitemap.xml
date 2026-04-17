@@ -506,7 +506,7 @@
   </url>
   <url>
     <loc>https://papayacleanse.co/ingredientes/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -613,6 +613,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://papayacleanse.co/condiciones/colon-irritable-colombia/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://papayacleanse.co/condiciones/colon-irritable/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -633,6 +639,12 @@
   <url>
     <loc>https://papayacleanse.co/condiciones/digestion-lenta/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.co/condiciones/digestion-y-antibioticos/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -727,6 +739,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://papayacleanse.co/condiciones/gastritis-por-estres-co/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://papayacleanse.co/condiciones/gastritis-por-medicamentos/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -759,6 +777,12 @@
   <url>
     <loc>https://papayacleanse.co/condiciones/hinchazon-abdominal/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.co/condiciones/hinchazón-abdominal-cronica/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -835,6 +859,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://papayacleanse.co/condiciones/parasitos-colombia-tropical/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://papayacleanse.co/condiciones/parasitos-intestinales-adultos/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -865,6 +895,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://papayacleanse.co/condiciones/reflujo-nocturno-colombia/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://papayacleanse.co/condiciones/sibo/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -885,6 +921,36 @@
   <url>
     <loc>https://papayacleanse.co/efectos-secundarios/</loc>
     <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.co/ingrediente/canela/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.co/ingrediente/menta/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.co/ingrediente/paico/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.co/ingrediente/papaya/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.co/ingrediente/semillas-de-zapallo/</loc>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
   </url>
