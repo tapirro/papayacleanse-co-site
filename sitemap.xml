@@ -679,6 +679,24 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://papayacleanse.co/condiciones/digestión-y-antibioticos/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.co/condiciones/digestión-y-comida-callejera-colombia/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.co/condiciones/digestión-y-turnos-nocturnos-colombia/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://papayacleanse.co/condiciones/disbiosis-intestinal/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -759,6 +777,12 @@
   <url>
     <loc>https://papayacleanse.co/condiciones/estrenimiento/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.co/condiciones/flatulencia-excesiva/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -854,6 +878,12 @@
   </url>
   <url>
     <loc>https://papayacleanse.co/condiciones/hinchazón-y-frijoles-colombianos/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.co/condiciones/hígado-graso-y-aguardiente/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
