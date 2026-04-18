@@ -397,6 +397,12 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://papayacleanse.co/ingrediente/acido-folico/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://papayacleanse.co/ingrediente/alcachofa/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
@@ -427,6 +433,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://papayacleanse.co/ingrediente/hierro/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://papayacleanse.co/ingrediente/hinojo/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
@@ -445,6 +457,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://papayacleanse.co/ingrediente/magnesio/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://papayacleanse.co/ingrediente/manzanilla/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
@@ -458,6 +476,12 @@
   </url>
   <url>
     <loc>https://papayacleanse.co/ingrediente/nopal/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.co/ingrediente/omega-3/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
@@ -493,7 +517,19 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://papayacleanse.co/ingrediente/selenio/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://papayacleanse.co/ingrediente/semillas-de-zapallo/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.co/ingrediente/silicio-organico/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
@@ -668,7 +704,7 @@
   </url>
   <url>
     <loc>https://papayacleanse.co/condiciones/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -705,6 +741,12 @@
   <url>
     <loc>https://papayacleanse.co/condiciones/candidiasis-intestinal/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.co/condiciones/colitis-nerviosa/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -813,6 +855,12 @@
   <url>
     <loc>https://papayacleanse.co/condiciones/diverticulitis-prevencion/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.co/condiciones/diverticulosis/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -973,6 +1021,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://papayacleanse.co/condiciones/hepatitis-grasa/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://papayacleanse.co/condiciones/hinchazon-abdominal/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -1071,6 +1125,12 @@
   <url>
     <loc>https://papayacleanse.co/condiciones/nauseas-cronicas/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.co/condiciones/nauseas-embarazo/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
