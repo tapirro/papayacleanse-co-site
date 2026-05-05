@@ -501,13 +501,6 @@ a:hover{text-decoration:underline}
 }
 .sticky-cta-bar a:hover { background: #e55a2b; }
 @media (min-width: 769px) { .sticky-cta-bar { display: none !important; } }
-
-/* R4: Lead form standardization */
-.privacy-consent { display:flex; align-items:flex-start; gap:6px; margin:8px 0 12px; font-size:.78rem; color:#666; cursor:pointer; }
-.privacy-consent input { margin-top:2px; flex-shrink:0; }
-.privacy-consent a { color:#2563eb; }
-.trust-row { list-style:none; padding:0; margin:.8rem 0 0; display:flex; justify-content:center; gap:.8rem; flex-wrap:wrap; font-size:.75rem; color:#666; }
-.lead-form select { width:100%; padding:10px 12px; margin-bottom:8px; border:1.5px solid #e2e8f0; border-radius:8px; font-size:.95rem; background:#fff; -webkit-appearance:none; appearance:none; background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23666' d='M6 8L1 3h10z'/%3E%3C/svg%3E"); background-repeat:no-repeat; background-position:right 12px center; }
 </style>
 </head>
 <body>
@@ -610,17 +603,16 @@ a:hover{text-decoration:underline}
   <form action="https://lead-capture.mantissa-bot.workers.dev/" method="POST" style="max-width:400px;margin:0 auto">
     <input type="hidden" name="product" value="papayacleanse">
     <input type="hidden" name="source" value="papayacleanse.co">
-    <input type="text" name="name" placeholder="Nombre completo" required autocomplete="name"
+    <input type="text" name="name" placeholder="Tu nombre" required
       style="width:100%;padding:10px;margin-bottom:8px;border:1px solid #ddd;border-radius:6px;font-size:.95rem;box-sizing:border-box">
-    <input type="tel" name="phone" inputmode="tel" placeholder="+57 3XX XXX XXXX" required
+    <input type="tel" name="phone" placeholder="Tu teléfono" required
       style="width:100%;padding:10px;margin-bottom:8px;border:1px solid #ddd;border-radius:6px;font-size:.95rem;box-sizing:border-box">
-    <select name="city" required style="width:100%;padding:10px;margin-bottom:8px;border:1px solid #ddd;border-radius:6px;font-size:.95rem;box-sizing:border-box;background:#fff"><option value="">Ciudad</option><option>Bogotá</option><option>Medellín</option><option>Cali</option><option>Barranquilla</option><option>Cartagena</option><option>Bucaramanga</option><option>Otra</option></select>
-    <label style="display:flex;align-items:flex-start;gap:6px;margin-bottom:12px;font-size:.78rem;color:#666;cursor:pointer"><input type="checkbox" name="consent" required style="margin-top:2px;flex-shrink:0"><span>Acepto el tratamiento de mis datos según la <a href="/privacidad" style="color:#2563eb">política de privacidad</a></span></label>
+    <input type="text" name="city" placeholder="Ciudad"
+      style="width:100%;padding:10px;margin-bottom:12px;border:1px solid #ddd;border-radius:6px;font-size:.95rem;box-sizing:border-box">
     <button type="submit"
       style="width:100%;padding:12px;background:#1a5632;color:#fff;border:none;border-radius:8px;font-size:1rem;font-weight:bold;cursor:pointer">
-      Pedir con descuento — Pago contra entrega
+      Solicitar Información →
     </button>
-    <ul style="list-style:none;padding:0;margin:.8rem 0 0;display:flex;justify-content:center;gap:.8rem;flex-wrap:wrap;font-size:.75rem;color:#666"><li>✓ Envío gratis</li><li>✓ Pago contra entrega</li><li>✓ 30 días garantía</li></ul>
   </form>
   <p style="font-family:Arial,sans-serif;font-size:.72rem;color:#888;text-align:center;margin-top:.6rem">
     ✅ Registro Sanitario INVIMA SD2024-0011234 · Fabricante Hilart S.A.C. · Sin compromiso
@@ -759,17 +751,16 @@ a:hover{text-decoration:underline}
   <form action="https://lead-capture.mantissa-bot.workers.dev/" method="POST" style="max-width:400px;margin:0 auto">
     <input type="hidden" name="product" value="papayacleanse">
     <input type="hidden" name="source" value="papayacleanse.co">
-    <input type="text" name="name" placeholder="Nombre completo" required autocomplete="name"
+    <input type="text" name="name" placeholder="Tu nombre" required
       style="width:100%;padding:10px;margin-bottom:8px;border:1px solid #ddd;border-radius:6px;font-size:.95rem;box-sizing:border-box">
-    <input type="tel" name="phone" inputmode="tel" placeholder="+57 3XX XXX XXXX" required
+    <input type="tel" name="phone" placeholder="Tu teléfono" required
       style="width:100%;padding:10px;margin-bottom:8px;border:1px solid #ddd;border-radius:6px;font-size:.95rem;box-sizing:border-box">
-    <select name="city" required style="width:100%;padding:10px;margin-bottom:8px;border:1px solid #ddd;border-radius:6px;font-size:.95rem;box-sizing:border-box;background:#fff"><option value="">Ciudad</option><option>Bogotá</option><option>Medellín</option><option>Cali</option><option>Barranquilla</option><option>Cartagena</option><option>Bucaramanga</option><option>Otra</option></select>
-    <label style="display:flex;align-items:flex-start;gap:6px;margin-bottom:12px;font-size:.78rem;color:#666;cursor:pointer"><input type="checkbox" name="consent" required style="margin-top:2px;flex-shrink:0"><span>Acepto el tratamiento de mis datos según la <a href="/privacidad" style="color:#2563eb">política de privacidad</a></span></label>
+    <input type="text" name="city" placeholder="Ciudad"
+      style="width:100%;padding:10px;margin-bottom:12px;border:1px solid #ddd;border-radius:6px;font-size:.95rem;box-sizing:border-box">
     <button type="submit"
       style="width:100%;padding:12px;background:#1a5632;color:#fff;border:none;border-radius:8px;font-size:1rem;font-weight:bold;cursor:pointer">
-      Pedir con descuento — Pago contra entrega
+      Solicitar Información →
     </button>
-    <ul style="list-style:none;padding:0;margin:.8rem 0 0;display:flex;justify-content:center;gap:.8rem;flex-wrap:wrap;font-size:.75rem;color:#666"><li>✓ Envío gratis</li><li>✓ Pago contra entrega</li><li>✓ 30 días garantía</li></ul>
   </form>
   <p style="font-family:Arial,sans-serif;font-size:.72rem;color:#888;text-align:center;margin-top:.6rem">
     ✅ Registro Sanitario INVIMA SD2024-0011234 · Fabricante Hilart S.A.C. · Sin compromiso
